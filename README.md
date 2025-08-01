@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**LucasSchurkens/LucasSchurkens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="contenido-del-usuario-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, soy Lucas</h1></summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy estudiando la Tecnicatura Universitaria en Programacion de la UTN**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Escribo artículos regularmente sobre [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 No dudes en contactarme **schurkenslucas@gmail.com**
+
+
