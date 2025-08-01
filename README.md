@@ -1,12 +1,15 @@
 
-<div id="contenido-del-usuario-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Lucas</h1></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+  <h1 style="display: inline-block">Hi 👋, I'm Lucas</h1>
 </div>
 
-- 🔭 Actualmente estoy estudiando la Tecnicatura Universitaria en Programacion de la UTN**
-- 📫 No dudes en contactarme **schurkenslucas@gmail.com**
+## 👨‍💻 About Me  
+
+- 🎓 I’m currently studying **University Technician in Programming at UTN**  
+- 📖 I also teach **English classes for beginners**  
+- 💡 I have a strong interest in **technology**, both in **software** and **hardware**  
+- 🛠️ In my free time, I work as a **PC technician**, always eager to learn and grow  
+- 📫 You can reach me at: schurkenslucas@gmail.com
 
 
 
