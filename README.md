@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<br>
+<hr style="border: none; height: 4px; background-color: #001f3f; margin: 3em 0;" />
 
 
 ## 👨‍💻 About Me  
@@ -16,7 +16,9 @@
 - 🛠️ In my free time, I work as a **PC technician**, always eager to learn and grow  
 - 📫 You can reach me at: schurkenslucas@gmail.com
 
-## Technologies That I Know 💻
+<hr style="border: none; height: 4px; background-color: #001f3f; margin: 3em 0;" />
+
+## 💻 Technologies That I Know 
 
 <p align="center" style="font-size:0;">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" style="transform: scale(1.2); margin: 0 6px;" />
@@ -32,6 +34,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white" style="transform: scale(1.2); margin: 0 6px;" />
   <img alt="Apache NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" style="transform: scale(1.2); margin: 0 6px;" />
 </p>
+
 
 
 
