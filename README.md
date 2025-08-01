@@ -13,7 +13,8 @@
 - 🎓 I’m currently studying **University Technician in Programming at UTN**  
 - 📖 I also teach **English classes for beginners**  
 - 💡 I have a strong interest in **technology**, both in **software** and **hardware**  
-- 🛠️ In my free time, I work as a **PC technician**, always eager to learn and grow  
+- 🛠️ In my free time, I work as a **PC technician**, always eager to learn and grow
+- 💡 I’m passionate about **typed programming languages** such as **Java**, which help build robust and maintainable code  
 - 📫 You can reach me at: schurkenslucas@gmail.com
 
 <hr style="border: none; height: 4px; background-color: #001f3f; margin: 3em 0;" />
